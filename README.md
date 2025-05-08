@@ -1,4 +1,5 @@
 # Local Setup
+NOTE: Perform all the below steps in repository root.
 1. Create a .env file with the following details.
 ```
 # Development Settings
